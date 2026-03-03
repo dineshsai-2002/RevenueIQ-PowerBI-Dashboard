@@ -1,9 +1,6 @@
 # RevenueIQ-PowerBI-Dashboard
 Advanced Power BI Sales Dashboard implementing Star Schema modeling, Time Intelligence (CY vs PY), YOY metrics, dynamic slicers, and optimized DAX functions including CALCULATE, SELECTEDVALUE, and COALESCE.
 
-
-🚀 RevenuePulse – Sales Analytics Dashboard
----------------------------------------------
 📌 Overview
 -------------
 An interactive Sales Dashboard built using Power BI to analyze revenue, profit, and quantity with Current Year vs Previous Year (CY vs PY) comparison and YOY growth insights.
